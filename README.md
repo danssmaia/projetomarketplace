@@ -22,8 +22,6 @@ Linguagem de programação: Java
 
 Framework de desenvolvimento: JavaFX
 
-Ferramenta de build: Apache Maven
-
 ## Estrutura do Arquivo
 
 O espaço de trabalho contém, por padrão, duas pastas, onde:
